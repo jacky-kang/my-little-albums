@@ -7,7 +7,7 @@ var target1 = path.join(__dirname,'./public');
 var target2 = path.join(__dirname,'./upload');
 app.use(express.static(target1));
 app.use(express.static(target2));
-app.listen(3001,'127.0.0.1');
+app.listen(3000,'0.0.0.0');
 app.get('/',router.showIndex);
 app.get('/:albumName',router.showAlbum);
 app.post('/newFolder',router.newFolder);
