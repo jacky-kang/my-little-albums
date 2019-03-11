@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7607c9c0-5888-4de3-88e4-5ea892fe8c35" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/kang.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my-little-albums.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-conUrl_2019-03-11_17:33:47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-conUrl_2019-03-11_17:35:06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon1_2019-03-11_17:32:41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon1_2019-03-11_17:33:47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon1_2019-03-11_17:35:06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon2_2019-03-11_17:32:41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon2_2019-03-11_17:33:47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon2_2019-03-11_17:35:06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon3_2019-03-11_17:32:41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon3_2019-03-11_17:33:47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/小康/百家乐-icon3_2019-03-11_17:35:07.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controller/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/artDialog/doc/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/artDialog/doc/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempup/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/好吃的/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/好吃的/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/好吃的/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/萌图/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/萌图/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/萌图/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/album.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/album.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tempup/upload_dc8b67bec9390b4f66fcd1cf9e20cbcf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,20 +25,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="85">
-                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/controller/router.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+                <state relative-caret-position="833">
+                  <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -92,20 +56,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/views/album.ejs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="348">
-                  <caret line="135" column="12" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/package-lock.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="986">
-                  <caret line="67" selection-start-line="67" selection-end-line="67" />
+                <state relative-caret-position="758">
+                  <caret line="205" column="36" selection-start-line="205" selection-start-column="26" selection-end-line="205" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
@@ -153,11 +108,11 @@
       <list>
         <option value="$PROJECT_DIR$/temp-up/1.txt" />
         <option value="$PROJECT_DIR$/views/album.ejs" />
-        <option value="$PROJECT_DIR$/controller/router.js" />
         <option value="$PROJECT_DIR$/models/file.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/controller/router.js" />
       </list>
     </option>
   </component>
@@ -185,6 +140,26 @@
             <path>
               <item name="my-little-albums" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-little-albums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-little-albums" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-little-albums" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-little-albums" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-little-albums" type="462c0819:PsiDirectoryNode" />
+              <item name="temp-up" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-little-albums" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-little-albums" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-little-albums" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-little-albums" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,12 +213,12 @@
       <workItem from="1552287383055" duration="1686000" />
       <workItem from="1552289168235" duration="5779000" />
       <workItem from="1552296332071" duration="997000" />
-      <workItem from="1552297425888" duration="15000" />
+      <workItem from="1552297425888" duration="1200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10099000" />
+    <option name="totallyTimeSpent" value="11284000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,7 +233,7 @@
     <frame x="3840" y="0" width="3840" height="2160" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947257" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947257" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -269,7 +244,7 @@
       <window_info id="Navigate" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295172" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295172" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295172" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,10 +252,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="RNConsole" order="10" />
+      <window_info anchor="bottom" id="RNConsole" order="10" weight="0.3295172" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.3295172" />
-      <window_info anchor="bottom" id="调试" order="13" weight="0.38725734" />
+      <window_info active="true" anchor="bottom" id="调试" order="13" visible="true" weight="0.38725734" />
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -304,20 +279,6 @@
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/file.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -325,24 +286,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/album.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="135" column="12" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
+        <state relative-caret-position="758">
+          <caret line="205" column="36" selection-start-line="205" selection-start-column="26" selection-end-line="205" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/controller/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="833">
+          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
         </state>
       </provider>
     </entry>

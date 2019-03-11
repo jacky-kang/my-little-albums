@@ -29,26 +29,37 @@ module.exports.doPost = function (req, res) {
   let final = path.join(__dirname, '../upload')
   form.uploadDir = targetFile
 
-  form.parse(req,  (err, fields, files) => {
+  form.parse(req, (err, fields, files) => {
     if (err) {
       throw err
     }
 
-    files['picture'].forEach((file, i) => {
+    if (files['picture'].length) {
+      files['picture'].forEach((file, i) => {
+        let oldPath = file.path
+        let ext = path.extname(file.name)
+        let name = file.name.replace(ext, dayJs().format('_YYYY-MM-DD_HH:mm:ss') + ext)
+        let newPath = path.join(final, fields['folderName'], name)
+
+        fs.rename(oldPath, newPath, err => {
+          if (err) throw err
+          else if (files['picture'].length === i + 1) {
+            res.redirect('/' + fields['folderName'])
+          }
+        })
+      })
+    } else {
+      let file = files['picture']
       let oldPath = file.path
       let ext = path.extname(file.name)
       let name = file.name.replace(ext, dayJs().format('_YYYY-MM-DD_HH:mm:ss') + ext)
       let newPath = path.join(final, fields['folderName'], name)
 
-
-      fs.rename(oldPath, newPath, err=>{
-        if(err) throw err;
-        else if (files['picture'].length === i + 1) {
-          res.redirect('/' + fields['folderName'])
-        }
+      fs.rename(oldPath, newPath, err => {
+        if (err) throw err
+        res.redirect('/' + fields['folderName'])
       })
-
-    })
+    }
   })
 }
 module.exports.newFolder = function (req, res) {
