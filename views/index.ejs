@@ -18,7 +18,7 @@
         display: none;
       }
     </style>
-    <script> 
+    <script>
         $(function(){
             $('#newFloder').on('click',function(){
                 dialog({
@@ -27,7 +27,7 @@
                   okValue:"确定",
                   ok:function(){
                     var flodername = $('#flodername').val();
-                    $.post("/newfloder",{
+                    $.post("/newFolder",{
                       "flodername":flodername
                     },function(result){
                       if(result == "1"){

@@ -7,14 +7,14 @@ var target1 = path.join(__dirname,'./public');
 var target2 = path.join(__dirname,'./upload');
 app.use(express.static(target1));
 app.use(express.static(target2));
-app.listen(3000,'127.0.0.1');
+app.listen(3000,'0.0.0.0');
 app.get('/',router.showIndex);
 app.get('/:albumName',router.showAlbum);
-app.post('/newfloder',router.newfloder);
+app.post('/newFolder',router.newFolder);
 app.post('/rename',router.rename);
-app.post('/deletefloder',router.deletefloder);
-app.post('/uploadImg',router.dopost);
-app.post('/deleteimg',router.deleteimg);
+app.post('/deleteFolder',router.deleteFolder);
+app.post('/uploadImg',router.doPost);
+app.post('/deleteImg',router.deleteImg);
 //404
 app.use(function (req, res) {
     res.render("err");
